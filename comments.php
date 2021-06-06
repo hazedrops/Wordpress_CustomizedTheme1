@@ -15,7 +15,6 @@
                   }
                 ?>
               </h2><!-- .comments-title -->
-
 						</div><!-- .comments-header -->
 
 						<div class="comments-inner">
